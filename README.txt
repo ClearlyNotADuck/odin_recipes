@@ -1,1 +1,4 @@
-write a brief introduction for what the current project is and what skills you have demonstrated once you have completed it. (You can do this as a self-reflection at the end of the project which is a good way to review what you have learned.)
+This project helped me apply the competencies gained throughout the HTML section of the Odin Project Foundations.
+
+From creating the basic HTML code, inserting links and images and seeing the final result published, I felt motivated to learn more and in depth the other subjects.
+
